@@ -1,15 +1,14 @@
 #!/bin/bash
 export DISPLAY=:0
 LOGFILE="/home/pi/scripts/start_chromium.log"
-echo "$(date) - Starting Chromium" >> $LOGFILE
+echo "---------HEY---------$(date) - Starting Chromium" >> $LOGFILE
 
 xset s off >> $LOGFILE 2>&1
 xset -dpms >> $LOGFILE 2>&1
 xset s noblank >> $LOGFILE 2>&1
 unclutter -idle 0.1 -root & >> $LOGFILE 2>&1
-chromium-browser --kiosk --noerrdialogs --no-restore --disable-translate --disable-infobars --disable-features=TranslateUI > /dev/null 2>&1 &
-
-echo "$(date) - Chromium has started" >> $LOGFILE
+chromium-browser --kiosk --noerrdialogs --no-restore --disable-translate --disable-infobars --disable-features=TranslateUI --incognito --disable-gpu --disable-screensaver --autoplay-policy=no-user-gesture-required --overscroll-history-navigation=0 --no-first-run --no-default-browser-check --renderer-process-limit=50 "https://pi-dashboard-one.vercel.app/" >> $LOGFILE 2>&1
+echo "--------HEYY------------- $(date) - Chromium has started" >> $LOGFILE
 
 # Log trimming
 MAX_SIZE=50000 # Maximum file size in bytes (50KB in this example)
