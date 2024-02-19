@@ -28,3 +28,10 @@ echo "----------------------------------------" >> "$LOG_FILE"
 
 # Print message indicating logging was successful
 echo "System status logged to $LOG_FILE"
+
+# Log trimming
+MAX_SIZE=50000 # Maximum file size in bytes (50KB in this example)
+if [ $(stat -c%s "$LOG_FILE") -ge $MAX_SIZE ]; then
+    tail -n 1000 "$LOG_FILE" > "$LOG_FILE.tmp" && mv "$LOG_FILE.tmp" "$LOG_FILE"
+    echo "Log file trimmed."
+fi
