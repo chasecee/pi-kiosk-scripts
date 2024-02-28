@@ -69,10 +69,11 @@ sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
 - Create a script in `/home/pi/pi-kiosk-scripts/`:
 
 ```bash
-mkdir -p /home/pi/scripts
+mkdir -p /home/pi/pi-kiosk-scripts
 nano /home/pi/pi-kiosk-scripts/start_chromium.sh
 ```
 
+- Or use the script from this repo
 - Add the following content to the script:
 
 ```bash
