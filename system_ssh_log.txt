@@ -1,0 +1,489 @@
+Log Time: Sun 18 Feb 13:30:01 MST 2024
+System Load and Memory:
+ 13:30:01 up 3 min,  3 users,  load average: 2.37, 1.23, 0.50
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       138Mi       135Mi        41Mi       152Mi       197Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:26:43 MST; 3min 18s ago
+SSH Authentication Attempts:
+Feb 18 13:27:28 pidisplay sshd[899]: Accepted publickey for pi from 192.168.4.234 port 54320 ssh2: RSA SHA256:gaQxvyyonOfllrQVRP7sQC4MsnSCG6SBNNsfNZNWGts
+Feb 18 13:27:28 pidisplay sshd[899]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+CPU Temperature:
+temp=49.4'C
+----------------------------------------
+Log Time: Sun 18 Feb 13:40:01 MST 2024
+System Load and Memory:
+ 13:40:01 up 5 min,  2 users,  load average: 0.11, 0.43, 0.27
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       130Mi       133Mi        21Mi       162Mi       226Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 5min ago
+SSH Authentication Attempts:
+Feb 18 13:34:07 pidisplay sshd[448]: Server listening on 0.0.0.0 port 22.
+Feb 18 13:34:07 pidisplay sshd[448]: Server listening on :: port 22.
+CPU Temperature:
+temp=46.2'C
+----------------------------------------
+Log Time: Sun 18 Feb 13:50:01 MST 2024
+System Load and Memory:
+ 13:50:01 up 15 min,  3 users,  load average: 0.14, 0.62, 0.49
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       132Mi       130Mi        20Mi       163Mi       224Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 15min ago
+SSH Authentication Attempts:
+Feb 18 13:48:50 pidisplay sshd[1228]: Received disconnect from 192.168.4.189 port 36352:11: disconnected by user
+Feb 18 13:48:50 pidisplay sshd[1228]: Disconnected from user pi 192.168.4.189 port 36352
+Feb 18 13:48:50 pidisplay sshd[1222]: pam_unix(sshd:session): session closed for user pi
+Feb 18 13:50:04 pidisplay sshd[1248]: Accepted publickey for pi from 192.168.4.189 port 55944 ssh2: RSA SHA256:qDbh4gD43VR9lTBcqmZibAzqKpGP334jA756r1Gqv9U
+Feb 18 13:50:04 pidisplay sshd[1248]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+CPU Temperature:
+temp=48.3'C
+----------------------------------------
+Log Time: Sun 18 Feb 14:00:02 MST 2024
+System Load and Memory:
+ 14:00:02 up 25 min,  3 users,  load average: 0.00, 0.08, 0.25
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       135Mi       153Mi        20Mi       136Mi       221Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 25min ago
+SSH Authentication Attempts:
+Feb 18 13:50:04 pidisplay sshd[1248]: Accepted publickey for pi from 192.168.4.189 port 55944 ssh2: RSA SHA256:qDbh4gD43VR9lTBcqmZibAzqKpGP334jA756r1Gqv9U
+Feb 18 13:50:04 pidisplay sshd[1248]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+Feb 18 13:50:05 pidisplay sshd[1254]: Received disconnect from 192.168.4.189 port 55944:11: disconnected by user
+Feb 18 13:50:05 pidisplay sshd[1254]: Disconnected from user pi 192.168.4.189 port 55944
+Feb 18 13:50:05 pidisplay sshd[1248]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 14:10:02 MST 2024
+System Load and Memory:
+ 14:10:02 up 35 min,  3 users,  load average: 0.00, 0.01, 0.12
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       136Mi       145Mi        20Mi       143Mi       220Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 35min ago
+SSH Authentication Attempts:
+Feb 18 13:50:05 pidisplay sshd[1254]: Received disconnect from 192.168.4.189 port 55944:11: disconnected by user
+Feb 18 13:50:05 pidisplay sshd[1254]: Disconnected from user pi 192.168.4.189 port 55944
+Feb 18 13:50:05 pidisplay sshd[1248]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 14:20:01 MST 2024
+System Load and Memory:
+ 14:20:01 up 45 min,  3 users,  load average: 0.01, 0.02, 0.06
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       137Mi       133Mi        20Mi       154Mi       219Mi
+Swap:           99Mi        99Mi          0B
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 45min ago
+SSH Authentication Attempts:
+Feb 18 14:15:57 pidisplay sshd[1401]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+Feb 18 14:15:57 pidisplay sshd[1407]: Received disconnect from 192.168.4.189 port 38214:11: disconnected by user
+Feb 18 14:15:57 pidisplay sshd[1407]: Disconnected from user pi 192.168.4.189 port 38214
+Feb 18 14:15:57 pidisplay sshd[1401]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 14:30:01 MST 2024
+System Load and Memory:
+ 14:30:01 up 55 min,  3 users,  load average: 0.03, 0.01, 0.02
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       139Mi       135Mi        20Mi       150Mi       217Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 55min ago
+SSH Authentication Attempts:
+Feb 18 14:15:57 pidisplay sshd[1407]: Received disconnect from 192.168.4.189 port 38214:11: disconnected by user
+Feb 18 14:15:57 pidisplay sshd[1407]: Disconnected from user pi 192.168.4.189 port 38214
+Feb 18 14:15:57 pidisplay sshd[1401]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 14:40:01 MST 2024
+System Load and Memory:
+ 14:40:01 up  1:05,  3 users,  load average: 0.02, 0.05, 0.01
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       137Mi       135Mi        20Mi       152Mi       219Mi
+Swap:           99Mi        99Mi          0B
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 1h 5min ago
+SSH Authentication Attempts:
+Feb 18 14:15:57 pidisplay sshd[1401]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 14:50:02 MST 2024
+System Load and Memory:
+ 14:50:02 up  1:15,  3 users,  load average: 0.00, 0.01, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       141Mi       149Mi        20Mi       134Mi       215Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 1h 15min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=40.2'C
+----------------------------------------
+Log Time: Sun 18 Feb 15:00:01 MST 2024
+System Load and Memory:
+ 15:00:01 up  1:25,  3 users,  load average: 0.00, 0.01, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       141Mi       137Mi        20Mi       146Mi       215Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 1h 25min ago
+SSH Authentication Attempts:
+Feb 18 14:52:16 pidisplay sshd[1520]: Accepted publickey for pi from 192.168.4.189 port 45096 ssh2: RSA SHA256:qDbh4gD43VR9lTBcqmZibAzqKpGP334jA756r1Gqv9U
+Feb 18 14:52:16 pidisplay sshd[1520]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+Feb 18 14:52:17 pidisplay sshd[1526]: Received disconnect from 192.168.4.189 port 45096:11: disconnected by user
+Feb 18 14:52:17 pidisplay sshd[1526]: Disconnected from user pi 192.168.4.189 port 45096
+Feb 18 14:52:17 pidisplay sshd[1520]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 15:10:01 MST 2024
+System Load and Memory:
+ 15:10:01 up  1:35,  3 users,  load average: 0.00, 0.00, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       140Mi       132Mi        20Mi       152Mi       216Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 1h 35min ago
+SSH Authentication Attempts:
+Feb 18 14:52:16 pidisplay sshd[1520]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+Feb 18 14:52:17 pidisplay sshd[1526]: Received disconnect from 192.168.4.189 port 45096:11: disconnected by user
+Feb 18 14:52:17 pidisplay sshd[1526]: Disconnected from user pi 192.168.4.189 port 45096
+Feb 18 14:52:17 pidisplay sshd[1520]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 15:20:01 MST 2024
+System Load and Memory:
+ 15:20:01 up  1:45,  3 users,  load average: 0.04, 0.01, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       134Mi       144Mi        20Mi       146Mi       223Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 1h 45min ago
+SSH Authentication Attempts:
+Feb 18 14:52:17 pidisplay sshd[1520]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 15:30:01 MST 2024
+System Load and Memory:
+ 15:30:01 up  1:55,  3 users,  load average: 0.02, 0.04, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       143Mi       131Mi        20Mi       150Mi       213Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 1h 55min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=39.7'C
+----------------------------------------
+Log Time: Sun 18 Feb 15:40:02 MST 2024
+System Load and Memory:
+ 15:40:02 up  2:05,  3 users,  load average: 0.27, 0.22, 0.09
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       170Mi       143Mi        19Mi       111Mi       187Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 2h 5min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=41.3'C
+----------------------------------------
+Log Time: Sun 18 Feb 15:50:02 MST 2024
+System Load and Memory:
+ 15:50:02 up  2:15,  3 users,  load average: 0.00, 0.03, 0.05
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       167Mi       136Mi        20Mi       121Mi       189Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 2h 15min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 16:00:01 MST 2024
+System Load and Memory:
+ 16:00:01 up  2:25,  3 users,  load average: 0.01, 0.06, 0.05
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       174Mi       133Mi        20Mi       117Mi       182Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 2h 25min ago
+SSH Authentication Attempts:
+Feb 18 15:56:18 pidisplay sshd[1669]: Accepted publickey for pi from 192.168.4.189 port 45840 ssh2: RSA SHA256:qDbh4gD43VR9lTBcqmZibAzqKpGP334jA756r1Gqv9U
+Feb 18 15:56:18 pidisplay sshd[1669]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+Feb 18 15:56:19 pidisplay sshd[1675]: Received disconnect from 192.168.4.189 port 45840:11: disconnected by user
+Feb 18 15:56:19 pidisplay sshd[1675]: Disconnected from user pi 192.168.4.189 port 45840
+Feb 18 15:56:19 pidisplay sshd[1669]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 16:10:01 MST 2024
+System Load and Memory:
+ 16:10:01 up  2:35,  2 users,  load average: 0.04, 0.02, 0.02
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       172Mi       138Mi        20Mi       114Mi       185Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 2h 35min ago
+SSH Authentication Attempts:
+Feb 18 15:56:19 pidisplay sshd[1675]: Disconnected from user pi 192.168.4.189 port 45840
+Feb 18 15:56:19 pidisplay sshd[1669]: pam_unix(sshd:session): session closed for user pi
+Feb 18 16:02:34 pidisplay sshd[986]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 16:20:01 MST 2024
+System Load and Memory:
+ 16:20:01 up  2:45,  2 users,  load average: 0.03, 0.06, 0.04
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       169Mi       129Mi        19Mi       127Mi       188Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 2h 45min ago
+SSH Authentication Attempts:
+Feb 18 16:13:56 pidisplay sshd[1740]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+Feb 18 16:13:56 pidisplay sshd[1746]: Received disconnect from 192.168.4.189 port 38432:11: disconnected by user
+Feb 18 16:13:56 pidisplay sshd[1746]: Disconnected from user pi 192.168.4.189 port 38432
+Feb 18 16:13:56 pidisplay sshd[1740]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 16:30:02 MST 2024
+System Load and Memory:
+ 16:30:02 up  2:55,  2 users,  load average: 0.00, 0.02, 0.02
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       167Mi       141Mi        19Mi       117Mi       190Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 2h 55min ago
+SSH Authentication Attempts:
+Feb 18 16:13:56 pidisplay sshd[1746]: Received disconnect from 192.168.4.189 port 38432:11: disconnected by user
+Feb 18 16:13:56 pidisplay sshd[1746]: Disconnected from user pi 192.168.4.189 port 38432
+Feb 18 16:13:56 pidisplay sshd[1740]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 16:40:02 MST 2024
+System Load and Memory:
+ 16:40:02 up  3:05,  2 users,  load average: 0.00, 0.02, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       173Mi       144Mi        20Mi       107Mi       184Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 3h 5min ago
+SSH Authentication Attempts:
+Feb 18 16:13:56 pidisplay sshd[1740]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=40.8'C
+----------------------------------------
+Log Time: Sun 18 Feb 16:50:02 MST 2024
+System Load and Memory:
+ 16:50:02 up  3:15,  2 users,  load average: 0.00, 0.01, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       171Mi       135Mi        20Mi       118Mi       186Mi
+Swap:           99Mi        99Mi          0B
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 3h 15min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=42.4'C
+----------------------------------------
+Log Time: Sun 18 Feb 17:00:02 MST 2024
+System Load and Memory:
+ 17:00:02 up  3:25,  2 users,  load average: 0.15, 0.06, 0.01
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       167Mi       130Mi        20Mi       128Mi       190Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 3h 25min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=40.2'C
+----------------------------------------
+Log Time: Sun 18 Feb 17:10:01 MST 2024
+System Load and Memory:
+ 17:10:01 up  3:35,  2 users,  load average: 0.01, 0.01, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       166Mi       139Mi        20Mi       119Mi       190Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 3h 35min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=39.7'C
+----------------------------------------
+Log Time: Sun 18 Feb 17:20:02 MST 2024
+System Load and Memory:
+ 17:20:02 up  3:45,  2 users,  load average: 0.00, 0.00, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       172Mi       129Mi        20Mi       123Mi       184Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 3h 45min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=40.2'C
+----------------------------------------
+Log Time: Sun 18 Feb 17:30:02 MST 2024
+System Load and Memory:
+ 17:30:02 up  3:55,  2 users,  load average: 0.01, 0.03, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       169Mi       140Mi        20Mi       115Mi       187Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 3h 55min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=40.2'C
+----------------------------------------
+Log Time: Sun 18 Feb 17:40:01 MST 2024
+System Load and Memory:
+ 17:40:01 up  4:05,  2 users,  load average: 0.08, 0.03, 0.01
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       167Mi       135Mi        20Mi       122Mi       189Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 4h 5min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=40.2'C
+----------------------------------------
+Log Time: Sun 18 Feb 17:50:02 MST 2024
+System Load and Memory:
+ 17:50:02 up  4:15,  2 users,  load average: 0.07, 0.03, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       173Mi       134Mi        20Mi       117Mi       184Mi
+Swap:           99Mi        99Mi          0B
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 4h 15min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=39.7'C
+----------------------------------------
+Log Time: Sun 18 Feb 18:00:01 MST 2024
+System Load and Memory:
+ 18:00:01 up  4:25,  2 users,  load average: 0.01, 0.01, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       169Mi       135Mi        20Mi       120Mi       187Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 4h 25min ago
+SSH Authentication Attempts:
+Feb 18 17:57:20 pidisplay sshd[2043]: Accepted publickey for pi from 192.168.4.189 port 40444 ssh2: RSA SHA256:qDbh4gD43VR9lTBcqmZibAzqKpGP334jA756r1Gqv9U
+Feb 18 17:57:20 pidisplay sshd[2043]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+Feb 18 17:57:21 pidisplay sshd[2049]: Received disconnect from 192.168.4.189 port 40444:11: disconnected by user
+Feb 18 17:57:21 pidisplay sshd[2049]: Disconnected from user pi 192.168.4.189 port 40444
+Feb 18 17:57:21 pidisplay sshd[2043]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=44.5'C
+----------------------------------------
+Log Time: Sun 18 Feb 18:10:02 MST 2024
+System Load and Memory:
+ 18:10:02 up  4:35,  2 users,  load average: 0.00, 0.00, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       165Mi       135Mi        20Mi       123Mi       191Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 13:34:07 MST; 4h 35min ago
+SSH Authentication Attempts:
+Feb 18 17:57:20 pidisplay sshd[2043]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+Feb 18 17:57:21 pidisplay sshd[2049]: Received disconnect from 192.168.4.189 port 40444:11: disconnected by user
+Feb 18 17:57:21 pidisplay sshd[2049]: Disconnected from user pi 192.168.4.189 port 40444
+Feb 18 17:57:21 pidisplay sshd[2043]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=45.1'C
+----------------------------------------
+Log Time: Sun 18 Feb 18:12:42 MST 2024
+System Load and Memory:
+ 18:12:43 up 0 min,  3 users,  load average: 4.12, 1.08, 0.36
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       121Mi        98Mi       9.0Mi       205Mi       247Mi
+Swap:           99Mi        70Mi        29Mi
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 18:07:30 MST; 5min ago
+SSH Authentication Attempts:
+Feb 18 18:07:37 pidisplay sshd[657]: Accepted publickey for pi from 192.168.4.234 port 55414 ssh2: RSA SHA256:gaQxvyyonOfllrQVRP7sQC4MsnSCG6SBNNsfNZNWGts
+Feb 18 18:07:37 pidisplay sshd[657]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+CPU Temperature:
+temp=48.9'C
+----------------------------------------
+Log Time: Sun 18 Feb 18:20:01 MST 2024
+System Load and Memory:
+ 18:20:01 up 8 min,  3 users,  load average: 0.09, 0.50, 0.40
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       136Mi       123Mi        23Mi       166Mi       217Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 18:07:30 MST; 12min ago
+SSH Authentication Attempts:
+Feb 18 18:07:37 pidisplay sshd[657]: Accepted publickey for pi from 192.168.4.234 port 55414 ssh2: RSA SHA256:gaQxvyyonOfllrQVRP7sQC4MsnSCG6SBNNsfNZNWGts
+Feb 18 18:07:37 pidisplay sshd[657]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+CPU Temperature:
+temp=46.7'C
+----------------------------------------
+Log Time: Sun 18 Feb 18:30:01 MST 2024
+System Load and Memory:
+ 18:30:02 up 18 min,  3 users,  load average: 0.22, 0.20, 0.27
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       128Mi       132Mi        22Mi       164Mi       227Mi
+Swap:           99Mi        99Mi          0B
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 18:07:30 MST; 22min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=46.2'C
+----------------------------------------
+Log Time: Sun 18 Feb 18:40:01 MST 2024
+System Load and Memory:
+ 18:40:01 up 7 min,  3 users,  load average: 0.01, 0.34, 0.27
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       141Mi       132Mi        21Mi       152Mi       215Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 18:32:29 MST; 7min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=46.2'C
+----------------------------------------
+Log Time: Sun 18 Feb 18:50:01 MST 2024
+System Load and Memory:
+ 18:50:01 up 5 min,  2 users,  load average: 0.10, 0.49, 0.29
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       148Mi       105Mi       0.0Ki       171Mi       228Mi
+Swap:           99Mi        98Mi       1.0Mi
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 18:44:43 MST; 5min ago
+SSH Authentication Attempts:
+Feb 18 18:46:40 pidisplay sshd[944]: Accepted publickey for pi from 192.168.4.189 port 49690 ssh2: RSA SHA256:qDbh4gD43VR9lTBcqmZibAzqKpGP334jA756r1Gqv9U
+Feb 18 18:46:40 pidisplay sshd[944]: pam_unix(sshd:session): session opened for user pi(uid=1000) by (uid=0)
+Feb 18 18:46:40 pidisplay sshd[950]: Received disconnect from 192.168.4.189 port 49690:11: disconnected by user
+Feb 18 18:46:40 pidisplay sshd[950]: Disconnected from user pi 192.168.4.189 port 49690
+Feb 18 18:46:40 pidisplay sshd[944]: pam_unix(sshd:session): session closed for user pi
+CPU Temperature:
+temp=42.4'C
+----------------------------------------
+Log Time: Sun 18 Feb 19:00:01 MST 2024
+System Load and Memory:
+ 19:00:01 up 15 min,  3 users,  load average: 0.03, 0.11, 0.16
+               total        used        free      shared  buff/cache   available
+Mem:           425Mi       144Mi       115Mi       0.0Ki       165Mi       231Mi
+Swap:           99Mi        99Mi       0.0Ki
+SSH Service Status:
+     Active: active (running) since Sun 2024-02-18 18:44:43 MST; 15min ago
+SSH Authentication Attempts:
+CPU Temperature:
+temp=46.2'C
+----------------------------------------
