@@ -1,6 +1,6 @@
 #!/bin/bash
 export DISPLAY=:0
-LOGFILE="/home/pi/scripts/start_chromium.log"
+LOGFILE="/home/pi/pi-kiosk-scripts/start_chromium.log"
 echo "$(date) - Starting Chromium" >> $LOGFILE
 xset s off >> $LOGFILE 2>&1
 xset -dpms >> $LOGFILE 2>&1

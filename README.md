@@ -66,11 +66,11 @@ sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
 
 1. **Create a Startup Script** :
 
-- Create a script in `/home/pi/scripts/`:
+- Create a script in `/home/pi/pi-kiosk-scripts/`:
 
 ```bash
 mkdir -p /home/pi/scripts
-nano /home/pi/scripts/start_chromium.sh
+nano /home/pi/pi-kiosk-scripts/start_chromium.sh
 ```
 
 - Add the following content to the script:
@@ -88,7 +88,7 @@ chromium-browser --kiosk --noerrdialogs --no-restore --disable-translate --disab
 - Make the script executable:
 
 ```bash
-chmod +x /home/pi/scripts/start_chromium.sh
+chmod +x /home/pi/pi-kiosk-scripts/start_chromium.sh
 ```
 
 2. **Set Up Cron Job** :
@@ -102,7 +102,7 @@ crontab -e
 - Add the following line to run the script at boot:
 
 ```bash
-@reboot sleep 60 && /home/pi/scripts/start_chromium.sh
+@reboot sleep 60 && /home/pi/pi-kiosk-scripts/start_chromium.sh
 ```
 
 ### Troubleshooting
