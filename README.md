@@ -40,6 +40,12 @@ sudo apt-get install chromium-browser
 sudo apt-get install unclutter
 ```
 
+- Install `xdotool` to manage display sleep/wake:
+
+```bash
+sudo apt-get install xdotool
+```
+
 ### Configure Autostart (Attempted Method)
 
 1. **Autostart Setup** :
