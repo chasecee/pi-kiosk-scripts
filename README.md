@@ -43,7 +43,7 @@ sudo apt-get install unclutter
 - Install `xdotool` to manage display sleep/wake:
 
 ```bash
-sudo apt-get install xdotool
+sudo apt-get install xdotool x11-utils
 ```
 
 ### Configure Autostart (Attempted Method)
