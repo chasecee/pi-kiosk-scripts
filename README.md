@@ -121,6 +121,6 @@ crontab -e
 
 ## Final Notes
 
-- This setup was tailored for a Raspberry Pi Zero 2 W running Raspberry Pi OS with desktop.
+- This setup was tailored for a Raspberry Pi 4B running Raspberry Pi OS with desktop.
 - Adjustments may be necessary for different hardware or software versions.
 - This guide assumes a basic level of comfort with command-line operations and text file editing on the Raspberry Pi.
